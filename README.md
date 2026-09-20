@@ -319,3 +319,21 @@ This project demonstrates an end-to-end approach to e-commerce business analytic
 The analysis highlights differences in category, product, regional, customer, and discount-level performance and converts those findings into business-focused insights.
 
 The final dashboard provides an interactive way to explore these patterns and evaluate business performance from multiple perspectives.
+
+
+## Project Report
+
+For a detailed explanation of the project methodology, analysis, dashboard, business insights, and recommendations:
+
+[View Project Report (PDF)](report/E-Commerce-Business-Analytics-Report.pdf)
+
+
+---
+
+## Author
+
+**Mohammad Aatique Shaikh**  
+Software Developer | Data Analyst
+
+⭐ If you like this project, consider giving it a star!
+
