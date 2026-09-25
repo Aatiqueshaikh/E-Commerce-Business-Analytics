@@ -325,7 +325,7 @@ The final dashboard provides an interactive way to explore these patterns and ev
 
 For a detailed explanation of the project methodology, analysis, dashboard, business insights, and recommendations:
 
-[View Project Report (PDF)](report/E-Commerce-Business-Analytics-Report.pdf)
+[View Project Report (PDF)](report/E-Commerce-Business-Analytics-Project-Report.pdf)
 
 
 ---
